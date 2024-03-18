@@ -9,3 +9,4 @@ echo "username entered is : $username"
 echo "enter password"
  read -s password
  echo "password entered is: $password"
+ 
